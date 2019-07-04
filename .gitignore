@@ -1,0 +1,4 @@
+source/*
+output/*
+.byebug_history
+.rvmrc
